@@ -1,0 +1,16 @@
+.card{
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    border: 2px solid #222;
+    border-radius: 2px;
+    background-color: #bbb;
+    max-width: 20vw;
+    height: 30vw;
+    box-sizing: border-box;
+}
+
+.card img{
+    max-height: 100%;
+    max-width: 100%;
+}

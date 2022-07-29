@@ -1,0 +1,19 @@
+p{
+    color:blue;
+}
+
+
+.card {
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    border: 2px solid #222;
+    border-radius: 2px;
+    background-color: #bbb;
+    max-width: 30vw;
+    box-sizing: border-box;
+}
+
+.card img{
+    width: 50%;
+}
